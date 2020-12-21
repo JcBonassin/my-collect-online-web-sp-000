@@ -1,2 +1,3 @@
+def collect(array)
 
-
+end
